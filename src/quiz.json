@@ -1,0 +1,66 @@
+[
+    {
+        "ques": "Câu 1: Tên gọi đầu tiên của Đoàn TNCSHCM ?",
+        "a": "Đoàn TNCS Việt Nam, Đoàn TNCS Đông Dương",
+        "b": "Đoàn thanh niên Phản Đế động",
+        "c": "Đoàn thanh niên dân chủ Đông Dương",
+        "d": "Đoàn thanh niên cứu Việt Nam",
+        "right": "a"
+    },
+    {
+        "ques": "Câu 2: Bài ca chính thức của Đoàn (Đoàn ca) Thanh niên Cộng sản Hồ Chí Minh có tên là gì?",
+        "a": "Tuổi trẻ thế hệ Bác Hồ",
+        "b": "Tiến lên đoàn",
+        "c": "Thanh niên làm theo lời Bác Hồ",
+        "d": "Lên đàng",
+        "right": "c"
+    },
+    {
+        "ques": "Câu 3: Hệ thống tổ chức Đoàn Thanh niên Cộng sản Hồ Chí Minh bao gồm mấy cấp?",
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "3",
+        "right": "a"
+    },
+    {
+        "ques": "Câu 4: Đại hội Đoàn toàn quốc lần thứ I diễn ra tại đâu?",
+        "a": "Thái Bình",
+        "b": "Hà Nội",
+        "c": "Sài Gòn",
+        "d": "Thái Nguyên",
+        "right": "d"
+    },
+    {
+        "ques": "Câu 5: Tại Đại hội Đoàn toàn quốc lần thứ I, đồng chí được bầu làm Bí thư thứ 1 là ai?",
+        "a": "Vũ Quang",
+        "b": "Nguyễn Lam",
+        "c": "Vũ Trọng Kim",
+        "d": "Vũ Mão",
+        "right": "b"
+    },
+    {
+        "ques": " Câu 6: “Con đường của thanh niên chỉ có thể là con đường cách mạng chứ không thể là con đường nào khác”. Đây là câu nói nổi tiếng của ai?",
+        "a": "Đồng chí Lý Tự Trọng",
+        "b": "Đồng chí Nguyễn Văn Trỗi",
+        "c": "Đồng chí Lê Văn Tám",
+        "d": "Đồng chí Nguyễn Thái Bình",
+        "right": "a"
+    },
+    {
+        "ques": "Câu 7: Đoàn Thanh niên từ khi thành lập cho đến nay đã đổi tên mấy lần?",
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "8",
+        "right": "b"
+    },
+    {
+        "ques": "Câu 8: Bí thư thứ nhất Trung ương Đoàn hiện nay là ai?",
+        "a": "Đồng chí Võ Văn Thưởng",
+        "b": "Đồng chí Vương Đình Huệ",
+        "c": "Đồng chí Trương Hòa Bình",
+        "d": "Đồng chí Bùi Quang Huy",
+        "right": "d"
+    }
+]
