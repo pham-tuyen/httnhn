@@ -18,7 +18,7 @@ function App() {
     else alert(`Sai rồi. Đáp án là ${quiz[i][quiz[i].right]}`)
     setI(i + 1)
   }
-  if(i !== (quiz.length - 1)) {
+  if(i !== (quiz.length)) {
     return (
       <Container className='mt-5 pt-5'>
         <Ques text={quiz[i].ques}/>
